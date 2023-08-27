@@ -1,0 +1,16 @@
+body {
+    margin-top: 150px;
+    font: normal 18pt Arial;
+    text-align: center;
+    background: rgb(247, 249, 250);
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, .7);
+    border-radius: 8px;
+    height: 500px;
+    width: 600px;
+    align-items: center;
+    margin-left: 500px;
+
+}
+title{
+    margin-top: 20px;
+}
