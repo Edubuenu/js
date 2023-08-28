@@ -1,6 +1,6 @@
 var agora = new Date()
 /*var hora = agora.getHours()*/
-var hora = 19
+var hora = 09
 
 window.document.write(`Agora são ${hora} horas.`)
 if (hora < 12){
