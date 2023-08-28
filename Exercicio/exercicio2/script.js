@@ -1,9 +1,10 @@
-const form = document.querySelector('form');
-form.addEventListener('submit', (event) => {
-    event.preventDefault();
-    const age = document.querySelector('#age').value;
-    const gender = document.querySelector('input[name="gender"]:checked').value;
-    document.write(`Idade: ${age}, Gênero: ${gender}`);
-});
+var idade = "23"
+var sexo = "Masc"
 
-window.document.write(`Preencha os dados acima para ver o resultado`)
+window.document.write(`${idade} ${sexo} `)
+if ( idade <18 && seco == masc){
+    window.document.write(`É um jovem de ${idade} anos.`)
+} else if (idade > 18 < 60 && sexo == masc){
+    
+}
+window.document.write(`Preencha os dados para ver o resultado`)
